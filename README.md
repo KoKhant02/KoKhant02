@@ -75,10 +75,20 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 
 ## <img height="20" src="https://cdn-icons-png.flaticon.com/512/1349/1349733.png"> Blockchain Expertise
 
-- Developed a **Blockchain Wallet** using Go.
-- Hands-on experience with **Ethereum** and **Smart Contracts**.
-- Proficient in tools like **Truffle**, **Hardhat**, and blockchain technologies.
-- Deep understanding of **Golang integration with Blockchain platforms**.
+🚀 **Building the Future of Decentralized Applications** 🚀
+
+- 🏗️ Developed a **Blockchain Wallet** using **Amazon Web Services (AWS)** for secure, scalable wallet management.
+- 💼 Proficient in writing and deploying **ERC-20**, **ERC-721**, and **ERC-1155** smart contracts on **Ethereum** and **Polygon** networks.
+- 🛠️ Utilized **Solidity** for smart contract development, and integrated them into Go applications via **Solc** and **ABI**.
+- 🔄 Managed transaction of **ERC-20**, **NFT**, **ERC-1155**, and **native currencies** with an emphasis on efficiency and security.
+- 🔗 Integrated and synced blockchain processes with backend services, ensuring real-time data syncing between blockchain and database.
+- 📊 Skilled in **blockchain data management**, ensuring smooth interaction between the **blockchain network** and **database storage**.
+
+---
+
+🔐 **Security Focus**: Implemented security best practices such as **gas optimization**, **contract audits**, and **safe transaction handling** to ensure the integrity and safety of all interactions within the blockchain network.
+
+💡 **Passionate about**: Blockchain innovation, decentralized finance (DeFi), and expanding blockchain's real-world applications.
 
 ---
 
