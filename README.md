@@ -1,5 +1,3 @@
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 100%;"></a></code>
-
 # 💻 Kaung Khant Lin
 
 👋 Hello! I'm **Kaung Khant Lin**, a passionate and versatile software developer with expertise in both front-end and back-end development, blockchain, and cloud computing. I thrive on building scalable, secure, and efficient solutions for modern technological challenges.
