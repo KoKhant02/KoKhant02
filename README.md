@@ -1,4 +1,4 @@
-# 💻 Kaung Khant Lin
+# 💻 Kaung Khant Lin   [![](https://visitcount.itsvg.in/api?id=KoKhant02&icon=5&color=1)](https://visitcount.itsvg.in)
 
 👋 Hello! I'm **Kaung Khant Lin**, a passionate and versatile software developer with expertise in both front-end and back-end development, blockchain, and cloud computing. I thrive on building scalable, secure, and efficient solutions for modern technological challenges.
 
@@ -44,7 +44,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
   - ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) Apache Maven
   - Truffle, Hardhat
 
-### 💾 Databases
+### <img height="20" src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png"> Databases
 - **Relational**:
   - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) MySQL
   - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL,
@@ -71,7 +71,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 
 ---
 
-## 🌍 Blockchain Expertise
+## <img height="20" src="https://cdn-icons-png.flaticon.com/512/1349/1349733.png"> Blockchain Expertise
 
 - Developed a **Blockchain Wallet** using Go.
 - Hands-on experience with **Ethereum** and **Smart Contracts**.
@@ -102,6 +102,15 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 - Expertise in **collaborating across teams** and **delivering high-quality solutions** on time.
 
 ---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=KoKhant02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KoKhant02&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoKhant02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 
 ## 📫 Contact Me
  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ko.khant.edusocietalbiz8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin)
