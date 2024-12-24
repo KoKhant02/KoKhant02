@@ -23,9 +23,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="20" src="https://banner2.cleanpng.com/20180426/kbw/avexiclb6.webp" style="max-width: 100%;"></a></code> **Java**: Core Java, Spring, Spring Boot, Spring Security
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"><img height="20" src="https://img.icons8.com/?size=48&id=44442&format=png" style="max-width: 100%;"></a></code> **Go**: Golang, Gin, GORM
+- <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="max-width: 100%;"></a></code> **Python**: Flask, Django, Data Science, Machine Learning
+
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code> **JavaScript**: Node.js, React, AJAX
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"><img height="20" src="https://markovate.com/wp-content/uploads/2022/12/Solidity-Developer-logo.png" style="max-width: 100%; "></a></code> **Solidity**: Ethereum, Smart Contracts, Blockchain Development
 - **VBA**, **COBOL Basic**
+
 ### 🌐 Web Development
 - **Front-End**: 
   - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) HTML, 
@@ -103,8 +106,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 ---
 
 ## 📫 Contact Me
-- **📧 Email**: [ko.khant.edusocietalbiz8@gmail.com](mailto:ko.khant.edusocietalbiz8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin) 
+ [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ko.khant.edusocietalbiz8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin)
+
 
 ---
 
