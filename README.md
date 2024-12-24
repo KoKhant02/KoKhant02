@@ -104,9 +104,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 
 ## 📫 Contact Me
 - **📧 Email**: [ko.khant.edusocietalbiz8@gmail.com](mailto:ko.khant.edusocietalbiz8@gmail.com)
-- **💼 LinkedIn**: [Kaung Khant Lin](https://www.linkedin.com/in/kaung-khant-lin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin) 
 
 ---
 
 ## 🏆 Let's Build Something Amazing Together!
 Feel free to explore my repositories and projects. Open to collaborations, contributions, and discussions around exciting tech innovations! 🚀
+
+
