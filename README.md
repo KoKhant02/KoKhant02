@@ -25,11 +25,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"><img height="20" src="https://img.icons8.com/?size=48&id=44442&format=png" style="max-width: 100%;"></a></code> **Go**: Golang, Gin, GORM
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code> **JavaScript**: Node.js, React, AJAX
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"><img height="20" src="https://markovate.com/wp-content/uploads/2022/12/Solidity-Developer-logo.png" style="max-width: 100%; "></a></code> **Solidity**: Ethereum, Smart Contracts, Blockchain Development
-- 
-- **Java**: Core Java, Spring, Spring Boot, Spring Security
-- **Go**: Golang, Gin, GORM
-- **JavaScript**: Node.js, React, AJAX
-- **Solidity**: Ethereum, Smart Contracts, Blockchain Development
 - **VBA**, **COBOL Basic**
 ### 🌐 Web Development
 - **Front-End**: 
