@@ -1,17 +1,16 @@
 # 💻 Kaung Khant Lin   [![](https://visitcount.itsvg.in/api?id=KoKhant02&icon=5&color=1)](https://visitcount.itsvg.in)
 
-👋 Hello! I'm **Kaung Khant Lin**, a passionate and versatile software developer with expertise in both front-end and back-end development, blockchain, and cloud computing. I thrive on building scalable, secure, and efficient solutions for modern technological challenges.
+👋 Software Developer
+Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and Cloud Computing.
 
 ---
 
 ## 🌟 About Me
 
-- 🚀 Experienced in **Blockchain Wallet Development** using Go.
+- 🚀 Experienced in **Blockchain Wallet Development** using Go, Ethereum, Polygon.
 - 💼 Proficient in developing robust **backend systems**, interactive **front-end designs**, and secure **smart contracts**.
-- 🌐 Advocate of **Software Development Life Cycle (SDLC)** best practices.
-- 🛠 Strong believer in using technology to build impactful solutions.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-khant-lin/) or reach me at **ko.khant.edusocietalbiz8@gmail.com** for collaboration opportunities.
+- 🌐 Focused on SDLC best practices and building scalable, secure systems.
+- 🔐 Security: Gas optimization, contract audits, secure transactions.
 
 ---
 
@@ -73,45 +72,23 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 
 ---
 
-## <img height="20" src="https://cdn-icons-png.flaticon.com/512/1349/1349733.png"> Blockchain Expertise
+## 🛠️ Projects
 
-🚀 **Building the Future of Decentralized Applications** 🚀
-
+### <img height="20" src="https://cdn-icons-png.flaticon.com/512/1349/1349733.png"> Blockchain Wallet
+- Built a secure blockchain wallet using Go with advanced features like transaction tracking, multi-signature wallets, and seamless integration with Ethereum and Polygon-Amoy.
 - 🏗️ Developed a **Blockchain Wallet** using **Amazon Web Services (AWS)** for secure, scalable wallet management.
 - 💼 Proficient in writing and deploying **ERC-20**, **ERC-721**, and **ERC-1155** smart contracts on **Ethereum** and **Polygon** networks.
 - 🛠️ Utilized **Solidity** for smart contract development, and integrated them into Go applications via **Solc** and **ABI**.
 - 🔄 Managed transaction of **ERC-20**, **NFT**, **ERC-1155**, and **native currencies** with an emphasis on efficiency and security.
 - 🔗 Integrated and synced blockchain processes with backend services, ensuring real-time data syncing between blockchain and database.
-- 📊 Skilled in **blockchain data management**, ensuring smooth interaction between the **blockchain network** and **database storage**.
-
----
-
-🔐 **Security Focus**: Implemented security best practices such as **gas optimization**, **contract audits**, and **safe transaction handling** to ensure the integrity and safety of all interactions within the blockchain network.
-
-💡 **Passionate about**: Blockchain innovation, decentralized finance (DeFi), and expanding blockchain's real-world applications.
-
----
-
-## 🛠️ Projects
-
-### 🔗 Blockchain Wallet
-- Built a secure blockchain wallet using Go with advanced features like transaction tracking, multi-signature wallets, and seamless integration with Ethereum.
 
 ### 💼 Enterprise Solutions
-- Developed backend solutions using **Java Spring Boot**, integrated with **AWS Services** for scalability and performance.
+- Developed backend solutions using **Java Spring Boot** for scalability and performance.
 - Designed APIs with **Spring Security** and **RESTful principles** for secure and robust application interaction.
 
 ### 🌟 Web Applications
 - Created interactive web interfaces using **React**, **Thymeleaf**, and **Tailwind CSS** for seamless user experiences.
 - Designed and implemented database schemas to support complex relationships for enterprise-level applications.
-
----
-
-## 📈 Strengths
-- Proficient in **Object-Oriented Programming (OOP)** and **Software Design Patterns**.
-- Strong advocate for **secure and scalable system design**.
-- Enthusiastic learner with the ability to quickly adapt to new technologies.
-- Expertise in **collaborating across teams** and **delivering high-quality solutions** on time.
 
 ---
 
@@ -127,10 +104,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kaung-kha
 ## 📫 Contact Me
  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ko.khant.edusocietalbiz8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin)
 
-
----
-
-## 🏆 Let's Build Something Amazing Together!
-Feel free to explore my repositories and projects. Open to collaborations, contributions, and discussions around exciting tech innovations! 🚀
 
 
