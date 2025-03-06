@@ -21,7 +21,6 @@ Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and C
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="20" src="https://banner2.cleanpng.com/20180426/kbw/avexiclb6.webp" style="max-width: 100%;"></a></code> **Java**: Core Java, Spring, Spring Boot, Spring Security
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"><img height="20" src="https://img.icons8.com/?size=48&id=44442&format=png" style="max-width: 100%;"></a></code> **Go**: Golang, Gin, GORM
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="max-width: 100%;"></a></code> **Python**: Flask, Django, Data Science, Machine Learning
-
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code> **JavaScript**: Node.js, React, AJAX
 - <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"><img height="20" src="https://markovate.com/wp-content/uploads/2022/12/Solidity-Developer-logo.png" style="max-width: 100%; "></a></code> **Solidity**: Ethereum, Smart Contracts, Blockchain Development
 - **VBA**, **COBOL Basic**
@@ -56,20 +55,20 @@ Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and C
   - ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) Amazon DynamoDB
 
 ### 📦 Cloud & DevOps
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Amazon Web Services**: 
-  - EC2, EBS, ECS, ALB, RDS, VPC, SQS, S3, API Gateway, ElastiCache, IAM, SES, Cognito
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) **Docker**: 
-  -  Containerization & Orchestration
+- **Amazon Web Services (AWS)**: 
+  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) EC2, EBS, ECS, ALB, RDS, VPC, SQS, S3, API Gateway, ElastiCache, IAM, SES, Cognito
+- **Docker**: 
+  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) Containerization & Orchestration
 
-### 🛠️ Additional Skills
+### 🛠️ Blockchain & Messaging
 
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Quorum_logo.svg"> **Quorum Blockchain**:  
-  - Knowledge of **Quorum** for enterprise blockchain solutions.  
-  - Familiar with **permissioned networks**, **consensus mechanisms**, and **smart contract development** for Quorum.
+- **Blockchain**:
+  - ![Quorum](https://img.shields.io/badge/Quorum-%23A5B9B8.svg?style=flat-square&logo=ethereum&logoColor=white) Quorum Blockchain
+  - Ethereum, Smart Contracts
+  - Web3.js, Truffle, Hardhat
 
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RabbitMQ_logo.svg/480px-RabbitMQ_logo.svg.png"> **RabbitMQ**:
-  - Experience with **message broker systems**, integrating **RabbitMQ** for building scalable and reliable applications.
-  - Understanding of **message queues**, **pub-sub patterns**, and **asynchronous processing**.
+- **Messaging**:
+  - ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white) RabbitMQ
 
 ---
 
@@ -101,5 +100,5 @@ Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and C
 
 ---
 
-## 📫 Contact Me  
- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ko.khant.edusocietalbiz8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin)
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ko.khant.edusocietalbiz8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin)
