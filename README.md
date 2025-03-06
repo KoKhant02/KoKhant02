@@ -1,6 +1,6 @@
 # 💻 Kaung Khant Lin   [![](https://visitcount.itsvg.in/api?id=KoKhant02&icon=5&color=1)](https://visitcount.itsvg.in) 
 
-👋 Software Developer
+👋 Software Developer  
 Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and Cloud Computing.
 
 ---
@@ -56,19 +56,20 @@ Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and C
   - ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) Amazon DynamoDB
 
 ### 📦 Cloud & DevOps
-- **Amazon Web Services (AWS)**: 
-  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) EC2, EBS, ECS, ALB, RDS, VPC, SQS, S3, API Gateway, ElastiCache, IAM, SES, Cognito
-- **Docker**: 
-  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) Containerization & Orchestration
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) **Amazon Web Services**: 
+  - EC2, EBS, ECS, ALB, RDS, VPC, SQS, S3, API Gateway, ElastiCache, IAM, SES, Cognito
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) **Docker**: 
+  -  Containerization & Orchestration
 
-### ⚙️ Development Tools
-- **Version Control**: 
-  - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) Git, ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) GitHub, ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) GitLab
-- **API Testing**: 
-  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) Postman, Swagger
-- **Blockchain Development**: 
-  - ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) Web3.js, Truffle, Hardhat
-  - Ethereum, Smart Contracts
+### 🛠️ Additional Skills
+
+- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Quorum_logo.svg"> **Quorum Blockchain**:  
+  - Knowledge of **Quorum** for enterprise blockchain solutions.  
+  - Familiar with **permissioned networks**, **consensus mechanisms**, and **smart contract development** for Quorum.
+
+- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RabbitMQ_logo.svg/480px-RabbitMQ_logo.svg.png"> **RabbitMQ**:
+  - Experience with **message broker systems**, integrating **RabbitMQ** for building scalable and reliable applications.
+  - Understanding of **message queues**, **pub-sub patterns**, and **asynchronous processing**.
 
 ---
 
@@ -100,9 +101,5 @@ Expert in Blockchain Wallet Development, Backend Systems, Smart Contracts, and C
 
 ---
 
-
-## 📫 Contact Me
+## 📫 Contact Me  
  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ko.khant.edusocietalbiz8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaung-khant-lin)
-
-
-
