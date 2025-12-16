@@ -1,4 +1,4 @@
-# Kaung Khant Lin
+# Kaung Khant Lin ![](https://komarev.com/ghpvc/?username=KoKhant02&color=lightgrey)
 
 **Junior Software / Blockchain Developer**  
 Backend-focused developer with hands-on experience building blockchain services, REST APIs, and modern web applications.
