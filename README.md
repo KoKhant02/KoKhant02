@@ -3,6 +3,8 @@
 **Junior Software / Blockchain Developer**  
 Backend-focused developer with hands-on experience building blockchain services, REST APIs, and modern web applications.
 
+🌐 **Portfolio:** https://my-portfolio-topaz-omega-26.vercel.app/
+
 ---
 
 ## Profile
